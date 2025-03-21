@@ -1,0 +1,6 @@
+ipykernel
+litellm
+transformers
+openai
+tqdm
+python-dotenv
