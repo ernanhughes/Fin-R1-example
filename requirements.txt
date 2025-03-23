@@ -4,3 +4,8 @@ transformers
 openai
 tqdm
 python-dotenv
+pandas
+matplotlib
+sec-api
+requests
+huggingface_hub
